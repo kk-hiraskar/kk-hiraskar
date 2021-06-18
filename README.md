@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Karthik Kumar Hiraskar
-- 👀 I’m interested in exploring different cultures, discussing new topics, learning, technolgies. I am practiced to code in python, perl, java etc., 
+- 👀 Interested in exploring different cultures, discussing new topics, learning, technolgies. I am practiced to code in python, perl, java etc., 
 - 🌱 I’m currently learning trending automation techniques.
 - 🌱 Architect certified on OCI [Oracle Cloud Infrastructure] 
 <!--
