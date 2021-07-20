@@ -12,3 +12,14 @@
 kk-hiraskar/kk-hiraskar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+&nbsp;
+  
+<details>
+  <summary>📊 Github Stats</summary>
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kk-hiraskar&show_icons=true&theme=gotham" alt="KK's Stats" /> 
+</details>
+
+&nbsp;
+#### Profile Views
+![Visitor Count](https://profile-counter.glitch.me/{kk-hiraskar}/count.svg) 
