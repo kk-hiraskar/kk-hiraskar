@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karthik Kumar Hiraskar
 - 👀 Interested in exploring different cultures, discussing new topics, learning, technolgies.  
-- 📊 Practiced to code in python, perl, java etc., 
+- 📊 Practiced to code in python, perl, java ... etc., 
 - 🌱 I’m currently learning trending automation techniques.
 - 🌱 Architect certified on OCI [Oracle Cloud Infrastructure] 
 <!--
@@ -19,8 +19,11 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/-VB%20%2BA-black?style=for-the-badge&logo=visualstudio&logoColor=white)  
 ![](https://img.shields.io/badge/-Tools%20Design-white?logo=react&style=for-the-badge&logoColor=black)
+![](https://img.shields.io/badge/-Consulting-amber?logo=jest&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-Oracle%20Cloud-white?logo=icloud&style=for-the-badge&logoColor=red)
 
 📫 <a href="mailto:KsiriCreations@gmail.com">KsiriCreations@gmail.com</a>
 
